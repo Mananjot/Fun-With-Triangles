@@ -104,3 +104,13 @@ input[type="radio"]:hover {
     box-sizing: border-box;
 }
 
+.result{
+    display:none;
+    background-color: var(--primary-color);
+    margin: 15px auto;
+    width:50%;
+    padding: 8px;
+    color:var(--off-white);
+    border-radius: 5px;
+    font-weight: bolder;
+}
